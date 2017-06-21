@@ -1,0 +1,11 @@
+
+               s1 = sum(m1);
+               s2 = sum(m2);
+               if (s1 > s2) {
+                 message = "s1 is greater"
+                 } else if (s2 > s1) {
+                   message = "s2 is greater"
+                   } else {
+                   message = "s1 and s2 are equal"
+                   }
+               

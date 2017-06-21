@@ -1,0 +1,10 @@
+{
+    "data_type": "matrix",
+    "value_type": "double",
+    "rows": 17,
+    "cols": 4,
+    "nnz": 44,
+    "format": "text",
+    "author": "fei.hu1@ibm.com",
+    "created": "2017-06-21 16:19:49 PDT"
+}
