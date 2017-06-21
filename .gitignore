@@ -2,4 +2,8 @@
 target
 scratch_space
 systemml-scala.iml
+ .mtd
+
+*.iml
+*.dml
 
